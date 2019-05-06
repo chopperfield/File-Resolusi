@@ -5,14 +5,11 @@ WPU RESOLUSI:
 - Jogging CFD setiap hari minggu minimal 1 kali dalam 1 bulan
   * Mulai bangun jam 6
 - Membaca 1 buku self improvement setiap 1 bulan
-<<<<<<< HEAD
   Frm-1 Satu Hari 5 lembar
 - Belajar hal baru (apa saja) setiap hari
   Frm-1 Web Surfing 1 jam
-=======
-- Belajar hal baru (apa saja) setiap hari
->>>>>>> parent of 10aae2d... Merge pull request #2 from chopperfield/Coba-Fitur-1
 - Menambah penghasilan baru dari jualan
+  Frm-2 Tambahin Skill terlebih dahulu
 - Lebih displin dalam menyimpan uang 
 - Pindah kos
 - Travelling keluar negeri
